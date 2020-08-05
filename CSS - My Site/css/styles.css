@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+div {
+
+    background-color: #ed6663;
+}
+
+h1 {
+    color: #59405c;
+}
+
+.top-container {
+    background-color: #b0cac7;
+}
+
+.middle-container{
+    background-color: #c3aed6;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container{
+    background-color: #8675a9;
+    width: 200px;
+    height: 200px;
+}
